@@ -14,4 +14,4 @@ Si dentro del script de carga el data_set train.csv el out put será:
 "1" 1800000
 "2" 1800000
 
-Ambos resultados muestran el conteo de calificaciones de 34,686,770 reseñas de Amazon de 6,643,669 usuarios sobre 2,441,053 productos.Significando las calificaciones 1 para calificaciones negativas y 2 para calificaciones positivas. 
+Ambos resultados muestran el conteo de un subconjunto de calificaciones de 34,686,770 reseñas de Amazon de 6,643,669 usuarios sobre 2,441,053 productos.Significando las calificaciones 1 para calificaciones negativas y 2 para calificaciones positivas. 
