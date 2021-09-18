@@ -2,7 +2,7 @@
 
 
 ## Amazon_analysis.py 
-# Requisitos:
+### Requisitos:
 Descargar el data set de https://www.kaggle.com/kritanjalijain/amazon-reviews. Los archivos train.csv y test.csv contienen todas las muestras de entrenamiento como valores separados por comas.
 
 Si dentro del script de carga el data_set test.csv el out put será:
