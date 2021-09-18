@@ -29,9 +29,13 @@ Cuenta en Google Cloud Platform (GCP). Big Query. Git-Hub Public Data Set.
 Con esta consulta de SQL se puede averiguar si es más popular el uyso de espacios o tabulaciones entre diferentes programadores de diferentes lenguajes usando un data set públco de Git-Hub.
 
 ## san_francisco_bikeshare_trips.sql
+### Requisitos:
+Cuenta en Google Cloud Platform (GCP). Big Query. 
 
 Ejemplo de consulta estática.
 
 ## dynamicSQL_san_francisco_bikeshare_trips.sql
+### Requisitos:
+Cuenta en Google Cloud Platform (GCP). Big Query.
 
 ¿Qué pasa si las fuentes de datos públicos de Big Query se actualizan? Podemos realizar una consulta "dinámica" con la sentencia VIEW, de mandera tal que el preview del data set creado no aparecerá hasta que compilesmos la consulta SQL.
