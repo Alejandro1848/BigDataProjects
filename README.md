@@ -38,4 +38,4 @@ Ejemplo de consulta estática.
 ### Requisitos:
 Cuenta en Google Cloud Platform (GCP). Big Query.
 
-¿Qué pasa si las fuentes de datos públicos de Big Query se actualizan? Podemos realizar una consulta "dinámica" con la sentencia VIEW, de mandera tal que el preview del data set creado no aparecerá hasta que compilesmos la consulta SQL.
+¿Qué pasa si las fuentes de datos públicos de Big Query se actualizan? Podemos realizar una consulta "dinámica" con la sentencia VIEW, de mandera tal que el preview del data set creado no aparecerá hasta que compilemos la consulta SQL.
