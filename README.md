@@ -30,6 +30,8 @@ Con esta consulta de SQL se puede averiguar si es más popular el uyso de espaci
 
 ## san_francisco_bikeshare_trips.sql
 
-Consulta estática.
+Ejemplo de consulta estática.
+
+## dynamicSQL_san_francisco_bikeshare_trips.sql
 
 ¿Qué pasa si las fuentes de datos públicos de Big Query se actualizan? Podemos realizar una consulta "dinámica" con la sentencia VIEW, de mandera tal que el preview del data set creado no aparecerá hasta que compilesmos la consulta SQL.
