@@ -24,4 +24,6 @@ Ambos resultados muestran el conteo de un subconjunto de calificaciones de 34,68
 ## Big_Query_tabs_vs_spaces.sql 
 ### Requisitos:
 
-Cuenta en Google Cloud Platform (GCP). Big Query. GitHub Public Data Set.
+Cuenta en Google Cloud Platform (GCP). Big Query. Git-Hub Public Data Set.
+
+Con esta consulta de SQL se puede averiguar si es más popular el uyso de espacios o tabulaciones entre diferentes programadores de diferentes lenguajes usando un data set públco de Git-Hub.
